@@ -1,6 +1,8 @@
 package com.akexorcist.googledirection.sample;
 
 import android.Manifest;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
@@ -418,15 +420,35 @@ public class MonitorActivity extends FragmentActivity implements OnMapReadyCallb
     @Override
     public void onClick(View view) {
 
-//        String[] strings = getIntent().getStringArrayExtra("ID_job");
-//       Log.d("21MarchV2", "ค่าที่ Monitor ส่งในตัวแปร key ID_job ==> " + strings.length);
+        AlertDialog.Builder builder = new AlertDialog.Builder(MonitorActivity.this);
+        builder.setCancelable(false);
+        builder.setIcon(R.mipmap.mk_car2);
+        builder.setTitle("ยืนยันปลายทาง");
+        builder.setMessage("โปรดยืนยันถึงปลายทาง");
+        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+                dialogInterface.dismiss();
+            }
+        });
+        builder.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
 
-        Intent intent = new Intent(MonitorActivity.this, ShowResultActivity.class);
-        intent.putExtra("Login", loginStrings);
-        intent.putExtra("ID_job", jobStrings);
-        intent.putExtra("Length", Double.toString(somLengthADouble));
-        startActivity(intent);
-        finish();
+                Intent intent = new Intent(MonitorActivity.this, ShowResultActivity.class);
+                intent.putExtra("Login", loginStrings);
+                intent.putExtra("ID_job", jobStrings);
+                intent.putExtra("Length", Double.toString(somLengthADouble));
+                startActivity(intent);
+                finish();
+
+                dialogInterface.dismiss();
+
+            }
+        });
+        builder.show();
+
+
 
     }   // onClick
 
