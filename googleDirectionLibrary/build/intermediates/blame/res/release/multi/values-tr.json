@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\googleDirectionLibrary\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-tr\\values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 205,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\Users\\DARK\\.android\\build-cache\\ffce34060b13a2c34006429465644c699a0ac470\\output\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 205,
+                        "endOffset": 490
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\googleDirectionLibrary\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-tr\\values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 205,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\Users\\masterUNG\\.android\\build-cache\\507b917e2252482878e9387cee3e017895d5408a\\output\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 205,
+                        "endOffset": 490
+                    }
+                }
+            }
+        ]
+    }
+]
