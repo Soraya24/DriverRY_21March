@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:2:1-71:12
+ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:2:1-72:12
 	package
 		ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:3:5-52
 		INJECTED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml
@@ -64,7 +64,7 @@ MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\DARK\.an
 	android:required
 		ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:18:9-32
 application
-ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:20:5-69:19
+ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:20:5-70:19
 MERGED from [com.android.support:design:25.0.1] C:\Users\DARK\.android\build-cache\dc53d842da608b52c362aeabe1089e33c5ff81ac\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\DARK\.android\build-cache\4d767dfbfdbae8ace302ba6af391ff43c613f1aa\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\DARK\.android\build-cache\96893e0c01f2631f756964c237f4d10fc3c83901\output\AndroidManifest.xml:22:5-20
@@ -80,6 +80,7 @@ MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\DARK\.and
 MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\DARK\.android\build-cache\8b59ac9bb606a1f1e8e32819ea42bd01badf7389\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\DARK\.android\build-cache\9a01b282d2bdf6123eefe046d04c415514283cd1\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.0.1] C:\Users\DARK\.android\build-cache\9c6953644e6e56a5901bf79f74051db4e3b65c9b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] C:\Users\DARK\.android\build-cache\19599da9d6831d3f966c595431b7c66ae390d9c7\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:23:9-41
 	android:supportsRtl
@@ -174,9 +175,13 @@ ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:67:19-53
 activity#com.akexorcist.googledirection.sample.WalkActivity
-ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:68:9-59
+ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:68:9-50
 	android:name
 		ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:68:19-47
+activity#com.akexorcist.googledirection.sample.BackOfficeActivity
+ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:69:9-65
+	android:name
+		ADDED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml:69:19-53
 uses-sdk
 INJECTED from C:\Users\DARK\Downloads\DriverRY_15March-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.akexorcist:googleDirectionLibrary:1.0.5] C:\Users\DARK\Downloads\DriverRY_15March-master\googleDirectionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
@@ -196,6 +201,7 @@ MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\DARK\.and
 MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\DARK\.android\build-cache\8b59ac9bb606a1f1e8e32819ea42bd01badf7389\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\DARK\.android\build-cache\9a01b282d2bdf6123eefe046d04c415514283cd1\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.0.1] C:\Users\DARK\.android\build-cache\9c6953644e6e56a5901bf79f74051db4e3b65c9b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] C:\Users\DARK\.android\build-cache\19599da9d6831d3f966c595431b7c66ae390d9c7\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.0.1] C:\Users\DARK\.android\build-cache\dc53d842da608b52c362aeabe1089e33c5ff81ac\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion

@@ -8,6 +8,10 @@
         "source": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\app\\src\\main\\res\\mipmap-mdpi\\mk_car2.png"
     },
     {
+        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_driver.png",
+        "source": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\src\\main\\res\\mipmap-mdpi\\mk_driver.png"
+    },
+    {
         "merged": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
@@ -16,35 +20,31 @@
         "source": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\app\\src\\main\\res\\mipmap-mdpi\\mk_driver.png"
     },
     {
-        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_driver.png",
-        "source": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\src\\main\\res\\mipmap-mdpi\\mk_driver.png"
+        "merged": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_car.png",
+        "source": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\app\\src\\main\\res\\mipmap-mdpi\\mk_car.png"
     },
     {
         "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_car.png",
-        "source": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\app\\src\\main\\res\\mipmap-mdpi\\mk_car.png"
-    },
-    {
-        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_car2.png",
-        "source": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\src\\main\\res\\mipmap-mdpi\\mk_car2.png"
-    },
-    {
         "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_desination.png",
         "source": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\src\\main\\res\\mipmap-mdpi\\mk_desination.png"
     },
     {
-        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_origin.png",
-        "source": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\src\\main\\res\\mipmap-mdpi\\mk_origin.png"
+        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_car.png",
+        "source": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\src\\main\\res\\mipmap-mdpi\\mk_car.png"
     },
     {
         "merged": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_desination.png",
         "source": "C:\\Users\\DARK\\Downloads\\DriverRY_15March-master\\app\\src\\main\\res\\mipmap-mdpi\\mk_desination.png"
     },
     {
-        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_car.png",
-        "source": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\src\\main\\res\\mipmap-mdpi\\mk_car.png"
+        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_car2.png",
+        "source": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\src\\main\\res\\mipmap-mdpi\\mk_car2.png"
+    },
+    {
+        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mk_origin.png",
+        "source": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\src\\main\\res\\mipmap-mdpi\\mk_origin.png"
     }
 ]

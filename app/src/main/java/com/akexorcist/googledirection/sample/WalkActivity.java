@@ -112,7 +112,7 @@ public class WalkActivity extends AppCompatActivity implements View.OnClickListe
                 Log.d("22MarchV3", "Update Status @ userTABLE OK");
             }
 
-            Intent intent = new Intent(WalkActivity.this, ConfirmJob.class);
+            Intent intent = new Intent(WalkActivity.this, BackOfficeActivity.class);
             intent.putExtra("Login", loginstring);
             startActivity(intent);
             finish();
