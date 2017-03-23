@@ -67,6 +67,7 @@ public class ConfirmJob extends AppCompatActivity {
                 goToService1();
             } else if (intStatus == 3) {
                 goToService2();
+
             } else if (intStatus == 4) {
                 goToMonitor();
 
@@ -76,6 +77,9 @@ public class ConfirmJob extends AppCompatActivity {
             } else if (intStatus == 6) {
                 goToWalk();
 
+            } else if (intStatus == 7) {
+                goToBackOffice();
+
             }
 
 
@@ -84,6 +88,13 @@ public class ConfirmJob extends AppCompatActivity {
         }
 
     }   // checkStatus
+
+    private void goToBackOffice() {
+        Intent intent = new Intent(ConfirmJob.this, BackOfficeActivity.class);
+        intent.putExtra("Login", loginString);
+        startActivity(intent);
+        finish();
+    }
 
     private void goToService2() {
         Intent intent = new Intent(ConfirmJob.this, ServiceActivity.class);
